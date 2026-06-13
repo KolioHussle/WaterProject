@@ -5,6 +5,8 @@ The first additions were color support and water mixing, allowing multiple water
 
 The final stage focused on interaction systems such as floating objects, collision filtering and camera behaviour. This allowed some objects and characters to interact differently with the water depending on their gameplay role.
 
+P.S. Full project on branch master
+
 ## Script Description
 
 ## FluidSim
